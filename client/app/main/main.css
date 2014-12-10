@@ -635,3 +635,7 @@ a:after {
     }
 }
 
+li >a{
+    cursor: pointer;
+}
+
